@@ -1,4 +1,4 @@
-forked Jekyll blog site. Github Pages site: matrixician.github.io. 
+forked a Jekyll blog site to set up my blog, extensively modified by me. Github Pages site: matrixician.github.io. 
 "Project Genkai" lists my experiments and observations as an independent researcher in neuromorphic/event-driven computing. What's the dream? 
 Hardware-Aware Super-Intelligence. 
 Full-Dive Virtual-Reality. 
