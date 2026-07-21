@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Independent Researcher in Event-Driven and Neuromorphic Computing.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have a B.Tech in Engineering Physics from an IIT, which I half-assed because building a machine to do physics might be a better way of doing physics. Naturally, I started from the fundamentals -- neuroscience, because I'm not bullish on transformers. Still, this is cool: https://youtu.be/Mw60FH5iflI?si=rfSdgWmygxnZyLQc. 
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[email@gmail.com](mailto:neuromancer996@gmail.com)
