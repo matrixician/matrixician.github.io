@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spiking Neural Networks, Reservoir Computing, and Fractals 
+title: dissecting a spiking neural net based high frequency lead-lag strategy
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
