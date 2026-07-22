@@ -1,9 +1,11 @@
 ---
 layout: post
-title: dissecting a spiking neural net based high frequency lead-lag strategy
+title: Spiking Neural Networks for High Frequency Trading? Addressing FPGAs Brute Force Solving the ANN binning problem. 
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+SNNs are often accelerated on FPGAs (there isn't a centralized library for this as far as I can see), and they're also big in High Frequency Trading. So what's the issue? 
+
+Recent implementations of SNNs report outstanding PnL figures, but backtest on long horizon tasks and datasets with 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
